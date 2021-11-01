@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Lokkaze\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Lokkaze\\.nuget\\packages"
+    ]
+  }
+}
